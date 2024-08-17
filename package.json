@@ -98,7 +98,7 @@
     "less": "^3.11.1",
     "locate-java-home": "^1.1.2",
     "lodash": "^4.17.15",
-    "moment": "^2.25.2",
+    "moment": "^2.29.4",
     "p-all": "^3.0.0",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
     "parcel-plugin-replacer": "file:packages/parcel-plugin-replacer",
