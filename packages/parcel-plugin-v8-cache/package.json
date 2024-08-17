@@ -4,6 +4,6 @@
   "private": true,
   "author": "Shirasawa",
   "dependencies": {
-    "terser": "^4.4.3"
+    "terser": "^4.8.1"
   }
 }
