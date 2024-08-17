@@ -150,7 +150,7 @@
     "fs-extra": "^9.0.0",
     "globby": "^11.0.0",
     "minimist": "^1.2.5",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.7",
     "original-fs": "^1.1.0",
     "parcel": "^1.12.4",
     "v8-compile-cache": "^2.1.0"
