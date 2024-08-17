@@ -97,7 +97,7 @@
     "husky": "^4.2.5",
     "less": "^3.11.1",
     "locate-java-home": "^1.1.2",
-    "lodash": "^4.17.15",
+    "lodash": "^4.17.21",
     "moment": "^2.25.2",
     "p-all": "^3.0.0",
     "parcel-plugin-bundle-visualiser": "^1.2.0",
